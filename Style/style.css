@@ -1,11 +1,9 @@
 *{
     font-family: 'MuseoModerno', cursive;
 }
-
 .text-primary {
     color: #b38767;
 }
-
 .btn-primary {
     border-radius: 5px;
     background: #00667d;
@@ -18,21 +16,19 @@
 .btn-primary:hover{
     background: #05f5dd;
 }
-
 .section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
     font-weight: 700;
 }
-
 .section-description {
     color: #757575;
     text-align: center;
     font-size: 18px;
 }
 
-/* nav related styles */
+/* navber style*/
 nav {
     display: flex;
     justify-content: space-between;
@@ -64,7 +60,7 @@ nav a {
     color: #474747;
 }
 
-/* header related styles */
+/* header style */
 .header {
     background-color: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
